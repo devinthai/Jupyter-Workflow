@@ -111,3 +111,6 @@ Fremont.csv
 
 # scratch notebook
 Scratch.ipynb
+
+# weird # files
+*.#*
